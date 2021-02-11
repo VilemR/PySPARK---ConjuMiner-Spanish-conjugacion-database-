@@ -4,6 +4,6 @@ Experiment to extract spanish verb tenses from "spanish_billion_words" Corpus (h
 
 Feel free to change the list of spanish verbs () and create your own dataset according to your interest. Using AWS the whole process had taken ~20 minutes, occupying cluster 1+7 nodes (cost < 1USD).
 
-¡¡¡ HOLA TODOS LOS ESTIDIANTES PRACTIZANDO CONJUGACIONES !!!
-Aqui esta un baso de frases para practicar de la conjugacion del espanol. TOP100 verbos del espanol utilizado mas frequente. Aproxidamente 3 millones frases.
+¡¡¡ HOLA TODOS LOS ESTUDIANTES PRACTIZANDO CONJUGACIONES !!!
+Aqui esta un baso de frases para practicar de la conjugacion del espanol. TOP100 verbos espanoles utilizado mas frequente. Aproxidamente 3 millones frases con varias formas del verbos.
 Todo para descargar (base de datos) o utilizar PySPARk para hacer su experimento que le gusta.
